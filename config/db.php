@@ -9,5 +9,5 @@ return [
     'username' => 'root',
     'password' => '123456',
     'charset' => 'utf8mb4',
-    'tablePrefix' => 'xqz'
+    'tablePrefix' => 'xqz_'
 ];
