@@ -5,7 +5,6 @@
  */
 namespace common\override;
 
-
 class Application extends \yii\web\Application
 {
     /**
